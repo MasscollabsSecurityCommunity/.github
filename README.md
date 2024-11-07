@@ -4,7 +4,7 @@ Masscollabs Security Community README
 
 # Documentation License
 
-[CC BY-SA](by-sa.markdown)
+[CC BY-SA 4.0 or later](by-sa.markdown)
 
 # Software License
 
