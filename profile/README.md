@@ -1,6 +1,6 @@
 # Masscollabs Security Community
 
-* Here we serve to the public for all kind of people who runs software and hardware for any reason. 
+* Here we serve to the public for all kind of people who run software and hardware for any reason. 
 
 # Documentation License
 
